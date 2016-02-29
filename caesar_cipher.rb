@@ -1,3 +1,4 @@
+# caesars cypher shifting the string ascii characters by a shift bit
 def caesar_cipher
   str = ''
   puts "Enter a string: "
