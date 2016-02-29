@@ -12,4 +12,3 @@ def caesar_cipher
   end
   puts str
 end
-caesar_cipher
