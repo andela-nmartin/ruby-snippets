@@ -12,3 +12,5 @@ def caesar_cipher
   end
   puts str
 end
+# calling the function to run it on the commandline
+caesar_cipher
